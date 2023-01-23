@@ -1,5 +1,5 @@
 {
-    "name": "gustavo/digitalcep",
+    "name": "gustavosilva/digitalcep",
     "description": "Busca de cep online",
     "type": "library",
     "license": "MIT",
@@ -18,7 +18,7 @@
             "Search": "src/"
         },
         "psr-4": {
-            "gustavo\\digitalcep\\": "src/"
+            "gustavosilva\\digitalcep\\": "src/"
         }
     }
 }

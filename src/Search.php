@@ -1,6 +1,6 @@
 <?php
 
-namespace gustavo\digitalcep;
+namespace gustavosilva\digitalcep;
 
 class Search{
     private $url = "https://viacep.com.br/ws/";
